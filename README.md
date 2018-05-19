@@ -2,6 +2,7 @@
 [![npm](https://img.shields.io/npm/v/winston-discord.svg)](https://www.npmjs.com/package/winston-discord)
 [![Travis](https://travis-ci.com/bram-codes/winston-discord.svg?branch=master)](https://travis-ci.com/bram-codes/winston-discord)
 [![Codecov](https://img.shields.io/codecov/c/github/bram-codes/winston-discord.svg)](https://codecov.io/gh/bram-codes/winston-discord)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fbram-codes%2Fwinston-discord.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fbram-codes%2Fwinston-discord?ref=badge_shield)
 
 A Discord transport for Winston using webhooks
 
@@ -63,3 +64,6 @@ logger.log('info', 'Hi discord!');
 * Log levels
 * Embeds
 * Overwriting username and avatar_url
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fbram-codes%2Fwinston-discord.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fbram-codes%2Fwinston-discord?ref=badge_large)
