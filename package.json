@@ -11,12 +11,12 @@
 		"coverage": "nyc report --reporter=text-lcov > coverage.lcov && codecov"
 	},
 	"dependencies": {
-		"winston": "^2.4.2"
+		"winston": "^3.2.1"
 	},
 	"devDependencies": {
-		"ava": "^0.25.0",
-		"codecov": "^3.0.2",
-		"nyc": "^11.8.0"
+		"ava": "^2.4.0",
+		"codecov": "^3.6.1",
+		"nyc": "^14.1.1"
 	},
 	"keywords": [
 		"winston",
